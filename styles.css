@@ -1,0 +1,19 @@
+
+body{
+    background-color: #eeeeee;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px 20px 20px 20px;
+    margin: 5px 10px 10px 10px;
+}
+
+p {
+    font-size: 2rem;
+}
+
+img {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    border: red solid double;
+}
+
